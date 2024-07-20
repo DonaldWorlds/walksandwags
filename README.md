@@ -24,11 +24,7 @@ This project is a web application designed for a dog walking business. It provid
    ```bash
    git clone https://github.com/DonaldWorlds/walksandwags.git
    ```
-2. **Navigate to the Project Directory**
-   ```bash
-   cd walksandwags
-   ```
-3. **Open the Project in Your Browser**
+2. **Open the Project in Your Browser**
    - The project is hosted on Netlify. You can view the live version at [your-netlify-url].
 
 
