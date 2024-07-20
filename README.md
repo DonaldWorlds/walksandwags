@@ -1,43 +1,39 @@
-# Walks & Wags Dog Walking Service
 
-Welcome to Walks & Wags! We provide reliable and loving dog walking services to ensure your furry friends get the exercise and care they deserve.
+# Dog Walking Business
+# Walks for Wags
 
-## Services
+## Project Overview
 
-### Dog Walking
-- **Standard Walks:** 30-minute walks to keep your dog active and happy.
-- **Extended Walks:** 60-minute walks for high-energy dogs or those who need extra exercise.
+This project is a web application designed for a dog walking business. It provides a platform for users to view services, book appointments, and get in touch with the business. The application showcases the use of modern web technologies and tools to create a functional and engaging user experience.
 
-### Pricing
-- **Standard Walk:** $20 per walk
-- **Extended Walk:** $35 per walk
+## Components Used
 
-### Booking
-To book a dog walking session, please [contact us](mailto:donaldwitherspoon21@yahoo.com) with the following details:
-- Your name
-- Your dog's name and breed
-- Preferred date and time for the walk
-- Any special instructions or needs
+- **HTML & CSS**: For structuring and styling the web pages.
+- **JavaScript**: To enhance interactivity, particularly with the use of the HTML Canvas for designing visual elements.
+- **Netlify**: Used for hosting the web application, providing fast and reliable deployment.
 
-## How It Works
+## Features
 
-1. **Contact Us:** Reach out via email or phone to schedule your walk.
-2. **Confirmation:** We will confirm the date and time of your walk.
-3. **Walk Time:** Our friendly and professional walker will arrive at your location to take care of your dog.
-4. **Enjoy:** Your dog gets a fun and invigorating walk, and you can enjoy peace of mind knowing they're in good hands.
+- **Service Overview**: Displays the range of dog walking services offered.
+- **Booking System**: Allows users to schedule appointments.
+- **Contact Information**: Provides contact details for the business.
 
-## Why Choose Us?
+## Getting Started
 
-- **Experienced Walkers:** Our team is experienced in handling dogs of all sizes and temperaments.
-- **Trustworthy:** We prioritize your dog's safety and well-being.
-- **Flexible Scheduling:** We offer flexible scheduling to fit your needs.
-- **Loving Care:** We treat your pets as if they were our own.
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/DonaldWorlds/walksandwags.git
+   ```
+2. **Navigate to the Project Directory**
+   ```bash
+   cd walksandwags
+   ```
+3. **Open the Project in Your Browser**
+   - The project is hosted on Netlify. You can view the live version at [your-netlify-url].
 
-## Contact Information
 
-For any inquiries or to book a walk, please contact us:
-- **Email:** donaldwitherspoon21@yahoo.com
-- **Phone:** [Your Phone Number Here]
+
+You can adjust the content as needed, especially the Netlify URL and any additional information you might want to include.
 
 ## Follow Us
 
