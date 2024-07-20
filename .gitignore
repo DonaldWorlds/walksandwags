@@ -1,0 +1,5 @@
+*.pyc
+__pycache__/
+*.log
+service.txt
+Tabloid.png
