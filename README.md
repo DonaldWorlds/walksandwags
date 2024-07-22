@@ -1,6 +1,6 @@
 
 # Dog Walking Business
-# Walks for Wags
+# Walks for Wagz
 
 ## Project Overview
 
@@ -37,6 +37,9 @@ Stay updated with our latest news and offers:
 - **Facebook:** [Your Facebook Page]
 - **Instagram:** [Your Instagram Handle]
 - **Twitter:** [Your Twitter Handle]
+
+
+
 
 Thank you for choosing Walks & Wags! We look forward to providing the best care for your beloved pets.
 
