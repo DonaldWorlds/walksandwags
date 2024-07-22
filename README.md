@@ -41,7 +41,8 @@ Stay updated with our latest news and offers:
 
 
 
-Thank you for choosing Walks & Wags! We look forward to providing the best care for your beloved pets.
+
+Thank you for choosing Walks & Wagz! We look forward to providing the best care for your beloved pets.
 
 
 
