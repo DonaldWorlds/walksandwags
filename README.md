@@ -1,6 +1,6 @@
 
 # Dog Walking Business
-# Walks for Wags
+# Walks for Wagz
 
 ## Project Overview
 
