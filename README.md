@@ -38,6 +38,7 @@ Stay updated with our latest news and offers:
 - **Instagram:** [Your Instagram Handle]
 - **Twitter:** [Your Twitter Handle]
 
+![Tabloid](https://github.com/user-attachments/assets/d1610d24-6223-4f71-ace3-5fed23598f6a)
 
 
 
