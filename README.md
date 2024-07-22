@@ -37,11 +37,12 @@ Stay updated with our latest news and offers:
 - **Facebook:** [Your Facebook Page]
 - **Instagram:** [Your Instagram Handle]
 - **Twitter:** [Your Twitter Handle]
+![Tabloid](https://github.com/user-attachments/assets/1a05c5f8-dd27-4777-9d18-0f45d64aa22c)
 
 
 
 
-Thank you for choosing Walks & Wags! We look forward to providing the best care for your beloved pets.
+Thank you for choosing Walks & Wagz! We look forward to providing the best care for your beloved pets.
 
 
 
